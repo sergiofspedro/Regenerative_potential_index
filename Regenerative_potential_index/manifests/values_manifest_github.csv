@@ -1,0 +1,30 @@
+indicator,relpath,year_col,parish_col,value_col,Location detail,Timeframe,Notes
+Yearly average concentration of particulate matter,data/Environmental/Yearly_average_concentration_of_particulate_matter.xlsx,year,,value,central,2013-2024,falta 2014
+Household waste per municipality per resident,data/Environmental/Household_waste_per_municipality.xlsx,year,,value,central,2001-2024,
+Nuisance perception: noise (%),data/Environmental/nuisance_perception_noise.xlsx,year,name,value,parish,2020-2024,
+Area: % natural green,data/Environmental/Area_%_Natural_green.xlsx,year,name,value,parish,2019-2024,
+Average distance to park-like greenery (m),data/Environmental/ Average_distance_to_park_like_greenery.xlsx,year,name,value,parish,2024 apenas,
+Biodiversity : flora and fauna species count,data/Environmental/biodiversity_flora_and_fauna_species_count.xlsx,year,,value,,,
+Proximity to transport facilities : 2020 - 2024,data/Environmental/proximity_to_transport_facilities.xlsx,year,name,value,parish,value,2020-2024
+"Supplies natural gas, public grid; companies, SIC 2008, region",data/Environmental/Supplies_natural_gas.xlsx,year,,value,central,2010-2023,
+"Supplies electricity, public grid; companies, SIC 2008, region",data/Environmental/Supplies_electricity.xlsx,year,,value,central,2010-2023,
+Neighborhood compost,data/Environmental/Neighborhood_composting_facilities.xlsx,,name,value,parish,No year data,
+Environmental zones and emission-free zones,data/Environmental/Environmental_zones_and_emission_free_zones.xlsx,,name,value,parish,No year data,
+Ecopassages,data/Environmental/Ecopassages.xlsx,,name,value,parish,,
+Green and multifunctional roofs,data/Environmental/Green_and_multifunctional_roofs.xlsx,,name,value,,,
+Energy label A/B (%),data/Environmental/Energy_label.xlsx,year,name,value,parish,2018-2025,
+Companies total number,data/Economic/Companies_total.xlsx,year,name,value,parish,2008-2024,
+Registered unemployment (%),data/Economic/Registered_unemployment.xlsx,year,name,value,parish,2010-2024,
+Persons in a poverty situation,data/Economic/Persons_in_poverty_situation.xlsx,year,name,value,parish ,2014-2025,
+Gini coefficient for income,data/Economic/Gini_coefficient_income.xlsx,year,name,value,parish ,2001-2023,
+Rent ratio per income,data/Economic/Net_rent_ratio.xlsx,year,name,value,parish ,2005-2023,2 em 2
+Holders of high education or University diploma (%),data/Social/Education_University diploma.xlsx,year,name,value,parish ,2010-2023,
+"Cultural facilities per 1,000 residents",data/Social/Cultural_facilities.xlsx,year,name,value,neigh,2012-2024,
+Registered crime,data/Social/Registered_crimes.xlsx,year,name,value,neigh,2012-2024,todos anos
+Cultural participation,data/Social/cultural_participation.xlsx,year,,value,central,até 2024. 2 em 2 anos,
+"Welfare facilities per 1,000 residents",data/Social/Welfare_facilities.xlsx,year,name,value,parish,2008-2024,
+Weekly contact neighbours (%),data/Social/Weekly_contact_neighbour.xlsx,year,,value,central,2012-2024,2 ewm 2 anos
+Discrimination (%),data/Social/Discrimination.xlsx,year,,value,central ,2015-2024,
+Political influence (%),data/Political/Political_influence.xlsx,year,,value,central ,2015-2024,2 ewm 2 anos
+Member of association (%),data/Political/Member_of_association.xlsx,year,name,value,parish,2012-2024,2 ewm 2 anos
+Works for issue in neighborhood / city (%),data/Political/Works_for_issue_in_neighborhood_city.xlsx,year,,value,central,2012-2024,2 ewm 2 anos
